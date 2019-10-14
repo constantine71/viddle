@@ -6,7 +6,6 @@ import * as serviceWorker from "./serviceWorker";
 import "bootstrap/dist/css/bootstrap.css";
 import "font-awesome/css/font-awesome.css";
 import { BrowserRouter } from "react-router-dom";
-import { O_RDWR } from "constants";
 
 ReactDOM.render(
   <BrowserRouter>
